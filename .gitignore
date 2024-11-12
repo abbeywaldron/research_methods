@@ -2,4 +2,4 @@
 #~#
 *.pdf
 *.png
-.pynb_checkpoints/*
+.ipynb_checkpoints/*
